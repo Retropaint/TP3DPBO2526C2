@@ -1,0 +1,2 @@
+add Z23
+addgun Z23 MKII 20 10
